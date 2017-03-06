@@ -1,0 +1,6 @@
+<?php	
+	// COULD'NT GET FUNCTIONS TO WORK
+	// SO LEFT IT OUT
+?>
+	
+	
